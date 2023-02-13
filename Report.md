@@ -100,7 +100,7 @@ Acres represents size.
 knitr::include_graphics("//Users/suprabhatripathi/Documents/GitHub/In-Class Activity/trend.png")
 ```
 <p align="center">
-  <img src="image/trend.png" width="850"/>
+  <img src="image/Trend.png" width="850"/>
 </p>
 ![](Trend.png)<!-- --> From this graph as we can see we have highest
 “Acres burned in 2012” and its is fluctuating since then.
