@@ -27,7 +27,7 @@ variable so its “Quantitative”
 knitr::include_graphics("//Users/suprabhatripathi/Documents/GitHub/In-Class Activity/Comparison.png")
 ```
 <p align="center">
-  <img src="Images/Comparison.png" width="850"/>
+  <img src="image/Comparison.png" width="850"/>
 </p>
 ![](Comparison.png)<!-- -->
 
@@ -60,7 +60,7 @@ between two variables measured for the same individuals so it is
 knitr::include_graphics("//Users/suprabhatripathi/Documents/GitHub/In-Class Activity/Correlation1.png")
 ```
 <p align="center">
-  <img src="Images/Correlation1.png" width="850"/>
+  <img src="image/Correlation1.png" width="850"/>
 </p>
 ![](Correlation1.png)<!-- --> But as I extended it by adding a Group in
 this as “Major category” and “Total Number of Students” so now it become
@@ -70,7 +70,7 @@ categorical.(Please refer 2nd image)
 knitr::include_graphics("//Users/suprabhatripathi/Documents/GitHub/In-Class Activity/Correlation2.png")
 ```
 <p align="center">
-  <img src="Images/Correlation2.png" width="850"/>
+  <img src="image/Correlation2.png" width="850"/>
 </p>
 ![](Correlation2.png)<!-- --> From this graph we can see Women in
 “Health and Science” major has maximum has highest share and women in
@@ -100,7 +100,7 @@ Acres represents size.
 knitr::include_graphics("//Users/suprabhatripathi/Documents/GitHub/In-Class Activity/trend.png")
 ```
 <p align="center">
-  <img src="Images/trend.png" width="850"/>
+  <img src="image/trend.png" width="850"/>
 </p>
 ![](Trend.png)<!-- --> From this graph as we can see we have highest
 “Acres burned in 2012” and its is fluctuating since then.
